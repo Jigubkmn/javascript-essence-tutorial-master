@@ -3,7 +3,7 @@ window.a = 4;
 function fn1() {
     // let a = 1;
     function fn2() {
-        let a = 3;
+        let a = 4;
         console.log(a);
     }
     fn2();
